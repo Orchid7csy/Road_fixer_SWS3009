@@ -1,0 +1,19 @@
+running egg_info
+writing ../../build/classify_and_get_depth/classify_and_get_depth.egg-info/PKG-INFO
+writing dependency_links to ../../build/classify_and_get_depth/classify_and_get_depth.egg-info/dependency_links.txt
+writing entry points to ../../build/classify_and_get_depth/classify_and_get_depth.egg-info/entry_points.txt
+writing requirements to ../../build/classify_and_get_depth/classify_and_get_depth.egg-info/requires.txt
+writing top-level names to ../../build/classify_and_get_depth/classify_and_get_depth.egg-info/top_level.txt
+reading manifest file '../../build/classify_and_get_depth/classify_and_get_depth.egg-info/SOURCES.txt'
+writing manifest file '../../build/classify_and_get_depth/classify_and_get_depth.egg-info/SOURCES.txt'
+running build
+running install
+running install_data
+copying config/crack-seg.yaml -> /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/share/classify_and_get_depth/config
+running install_egg_info
+removing '/home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth-0.1.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/classify_and_get_depth/classify_and_get_depth.egg-info to /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth-0.1.0-py3.10.egg-info
+running install_scripts
+Installing crack_detector_node script to /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/classify_and_get_depth
+Installing depth_publisher_node script to /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/classify_and_get_depth
+writing list of installed files to '/home/csy/My_baby_blue/Road_fixer/build/classify_and_get_depth/install.log'

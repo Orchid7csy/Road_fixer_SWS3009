@@ -1,0 +1,4 @@
+[console_scripts]
+crack_detector_node = classify_and_get_depth.nodes.crack_detector_node:main
+depth_publisher_node = classify_and_get_depth.nodes.depth_publisher_node:main
+

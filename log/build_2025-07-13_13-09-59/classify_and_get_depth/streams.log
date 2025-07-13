@@ -1,0 +1,21 @@
+[0.406s] Invoking command in '/home/csy/My_baby_blue/Road_fixer/src/classify_and_get_depth': CONDA_PROMPT_MODIFIER=(Road_fixer) PYTHONPATH=/home/csy/My_baby_blue/Road_fixer/build/classify_and_get_depth/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/classify_and_get_depth build --build-base /home/csy/My_baby_blue/Road_fixer/build/classify_and_get_depth/build install --record /home/csy/My_baby_blue/Road_fixer/build/classify_and_get_depth/install.log --single-version-externally-managed install_data
+[0.563s] running egg_info
+[0.563s] writing ../../build/classify_and_get_depth/classify_and_get_depth.egg-info/PKG-INFO
+[0.563s] writing dependency_links to ../../build/classify_and_get_depth/classify_and_get_depth.egg-info/dependency_links.txt
+[0.564s] writing entry points to ../../build/classify_and_get_depth/classify_and_get_depth.egg-info/entry_points.txt
+[0.564s] writing requirements to ../../build/classify_and_get_depth/classify_and_get_depth.egg-info/requires.txt
+[0.564s] writing top-level names to ../../build/classify_and_get_depth/classify_and_get_depth.egg-info/top_level.txt
+[0.564s] reading manifest file '../../build/classify_and_get_depth/classify_and_get_depth.egg-info/SOURCES.txt'
+[0.565s] writing manifest file '../../build/classify_and_get_depth/classify_and_get_depth.egg-info/SOURCES.txt'
+[0.565s] running build
+[0.565s] running install
+[0.565s] running install_data
+[0.565s] copying config/crack-seg.yaml -> /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/share/classify_and_get_depth/config
+[0.565s] running install_egg_info
+[0.567s] removing '/home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth-0.1.0-py3.10.egg-info' (and everything under it)
+[0.567s] Copying ../../build/classify_and_get_depth/classify_and_get_depth.egg-info to /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth-0.1.0-py3.10.egg-info
+[0.568s] running install_scripts
+[0.581s] Installing crack_detector_node script to /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/classify_and_get_depth
+[0.582s] Installing depth_publisher_node script to /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/classify_and_get_depth
+[0.582s] writing list of installed files to '/home/csy/My_baby_blue/Road_fixer/build/classify_and_get_depth/install.log'
+[0.599s] Invoked command in '/home/csy/My_baby_blue/Road_fixer/src/classify_and_get_depth' returned '0': CONDA_PROMPT_MODIFIER=(Road_fixer) PYTHONPATH=/home/csy/My_baby_blue/Road_fixer/build/classify_and_get_depth/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/classify_and_get_depth build --build-base /home/csy/My_baby_blue/Road_fixer/build/classify_and_get_depth/build install --record /home/csy/My_baby_blue/Road_fixer/build/classify_and_get_depth/install.log --single-version-externally-managed install_data

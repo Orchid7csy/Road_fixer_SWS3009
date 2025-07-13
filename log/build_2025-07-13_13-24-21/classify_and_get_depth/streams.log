@@ -1,0 +1,36 @@
+[0.383s] Invoking command in '/home/csy/My_baby_blue/Road_fixer/src/classify_and_get_depth': CONDA_PROMPT_MODIFIER=(Road_fixer) PYTHONPATH=/home/csy/My_baby_blue/Road_fixer/build/classify_and_get_depth/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/classify_and_get_depth build --build-base /home/csy/My_baby_blue/Road_fixer/build/classify_and_get_depth/build install --record /home/csy/My_baby_blue/Road_fixer/build/classify_and_get_depth/install.log --single-version-externally-managed install_data
+[0.548s] running egg_info
+[0.549s] writing ../../build/classify_and_get_depth/classify_and_get_depth.egg-info/PKG-INFO
+[0.549s] writing dependency_links to ../../build/classify_and_get_depth/classify_and_get_depth.egg-info/dependency_links.txt
+[0.549s] writing entry points to ../../build/classify_and_get_depth/classify_and_get_depth.egg-info/entry_points.txt
+[0.549s] writing requirements to ../../build/classify_and_get_depth/classify_and_get_depth.egg-info/requires.txt
+[0.549s] writing top-level names to ../../build/classify_and_get_depth/classify_and_get_depth.egg-info/top_level.txt
+[0.550s] reading manifest file '../../build/classify_and_get_depth/classify_and_get_depth.egg-info/SOURCES.txt'
+[0.551s] writing manifest file '../../build/classify_and_get_depth/classify_and_get_depth.egg-info/SOURCES.txt'
+[0.551s] running build
+[0.551s] running build_py
+[0.551s] copying classify_and_get_depth/__init__.py -> /home/csy/My_baby_blue/Road_fixer/build/classify_and_get_depth/build/lib/classify_and_get_depth
+[0.552s] creating /home/csy/My_baby_blue/Road_fixer/build/classify_and_get_depth/build/lib/classify_and_get_depth/nodes
+[0.552s] copying classify_and_get_depth/nodes/depth_publisher_node.py -> /home/csy/My_baby_blue/Road_fixer/build/classify_and_get_depth/build/lib/classify_and_get_depth/nodes
+[0.552s] copying classify_and_get_depth/nodes/crack_detector_node.py -> /home/csy/My_baby_blue/Road_fixer/build/classify_and_get_depth/build/lib/classify_and_get_depth/nodes
+[0.552s] copying classify_and_get_depth/nodes/__init__.py -> /home/csy/My_baby_blue/Road_fixer/build/classify_and_get_depth/build/lib/classify_and_get_depth/nodes
+[0.552s] running install
+[0.552s] running install_lib
+[0.553s] creating /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth/nodes
+[0.553s] copying /home/csy/My_baby_blue/Road_fixer/build/classify_and_get_depth/build/lib/classify_and_get_depth/nodes/depth_publisher_node.py -> /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth/nodes
+[0.553s] copying /home/csy/My_baby_blue/Road_fixer/build/classify_and_get_depth/build/lib/classify_and_get_depth/nodes/crack_detector_node.py -> /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth/nodes
+[0.553s] copying /home/csy/My_baby_blue/Road_fixer/build/classify_and_get_depth/build/lib/classify_and_get_depth/nodes/__init__.py -> /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth/nodes
+[0.553s] copying /home/csy/My_baby_blue/Road_fixer/build/classify_and_get_depth/build/lib/classify_and_get_depth/__init__.py -> /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth
+[0.554s] byte-compiling /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth/nodes/depth_publisher_node.py to depth_publisher_node.cpython-310.pyc
+[0.554s] byte-compiling /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth/nodes/crack_detector_node.py to crack_detector_node.cpython-310.pyc
+[0.555s] byte-compiling /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth/nodes/__init__.py to __init__.cpython-310.pyc
+[0.555s] byte-compiling /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth/__init__.py to __init__.cpython-310.pyc
+[0.555s] running install_data
+[0.555s] running install_egg_info
+[0.557s] removing '/home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth-0.1.0-py3.10.egg-info' (and everything under it)
+[0.557s] Copying ../../build/classify_and_get_depth/classify_and_get_depth.egg-info to /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth-0.1.0-py3.10.egg-info
+[0.558s] running install_scripts
+[0.572s] Installing crack_detector_node script to /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/classify_and_get_depth
+[0.572s] Installing depth_publisher_node script to /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/classify_and_get_depth
+[0.572s] writing list of installed files to '/home/csy/My_baby_blue/Road_fixer/build/classify_and_get_depth/install.log'
+[0.588s] Invoked command in '/home/csy/My_baby_blue/Road_fixer/src/classify_and_get_depth' returned '0': CONDA_PROMPT_MODIFIER=(Road_fixer) PYTHONPATH=/home/csy/My_baby_blue/Road_fixer/build/classify_and_get_depth/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/classify_and_get_depth build --build-base /home/csy/My_baby_blue/Road_fixer/build/classify_and_get_depth/build install --record /home/csy/My_baby_blue/Road_fixer/build/classify_and_get_depth/install.log --single-version-externally-managed install_data
