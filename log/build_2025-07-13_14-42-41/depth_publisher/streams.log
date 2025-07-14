@@ -1,0 +1,42 @@
+[0.594s] Invoking command in '/home/csy/My_baby_blue/Road_fixer/src/depth_publisher': CONDA_PROMPT_MODIFIER=(Road_fixer) PYTHONPATH=/home/csy/My_baby_blue/Road_fixer/build/depth_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/csy/My_baby_blue/Road_fixer/install/depth_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/depth_publisher build --build-base /home/csy/My_baby_blue/Road_fixer/build/depth_publisher/build install --record /home/csy/My_baby_blue/Road_fixer/build/depth_publisher/install.log --single-version-externally-managed install_data
+[0.755s] running egg_info
+[0.756s] creating ../../build/depth_publisher/depth_publisher.egg-info
+[0.756s] writing ../../build/depth_publisher/depth_publisher.egg-info/PKG-INFO
+[0.756s] writing dependency_links to ../../build/depth_publisher/depth_publisher.egg-info/dependency_links.txt
+[0.756s] writing entry points to ../../build/depth_publisher/depth_publisher.egg-info/entry_points.txt
+[0.756s] writing requirements to ../../build/depth_publisher/depth_publisher.egg-info/requires.txt
+[0.756s] writing top-level names to ../../build/depth_publisher/depth_publisher.egg-info/top_level.txt
+[0.756s] writing manifest file '../../build/depth_publisher/depth_publisher.egg-info/SOURCES.txt'
+[0.757s] reading manifest file '../../build/depth_publisher/depth_publisher.egg-info/SOURCES.txt'
+[0.758s] writing manifest file '../../build/depth_publisher/depth_publisher.egg-info/SOURCES.txt'
+[0.758s] running build
+[0.758s] running build_py
+[0.758s] creating /home/csy/My_baby_blue/Road_fixer/build/depth_publisher/build
+[0.758s] creating /home/csy/My_baby_blue/Road_fixer/build/depth_publisher/build/lib
+[0.758s] creating /home/csy/My_baby_blue/Road_fixer/build/depth_publisher/build/lib/depth_publisher
+[0.758s] copying depth_publisher/__init__.py -> /home/csy/My_baby_blue/Road_fixer/build/depth_publisher/build/lib/depth_publisher
+[0.758s] creating /home/csy/My_baby_blue/Road_fixer/build/depth_publisher/build/lib/depth_publisher/nodes
+[0.758s] copying depth_publisher/nodes/depth_publisher_node.py -> /home/csy/My_baby_blue/Road_fixer/build/depth_publisher/build/lib/depth_publisher/nodes
+[0.758s] copying depth_publisher/nodes/__init__.py -> /home/csy/My_baby_blue/Road_fixer/build/depth_publisher/build/lib/depth_publisher/nodes
+[0.758s] running install
+[0.759s] running install_lib
+[0.759s] creating /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/lib/python3.10/site-packages/depth_publisher
+[0.759s] creating /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/lib/python3.10/site-packages/depth_publisher/nodes
+[0.759s] copying /home/csy/My_baby_blue/Road_fixer/build/depth_publisher/build/lib/depth_publisher/nodes/depth_publisher_node.py -> /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/lib/python3.10/site-packages/depth_publisher/nodes
+[0.759s] copying /home/csy/My_baby_blue/Road_fixer/build/depth_publisher/build/lib/depth_publisher/nodes/__init__.py -> /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/lib/python3.10/site-packages/depth_publisher/nodes
+[0.760s] copying /home/csy/My_baby_blue/Road_fixer/build/depth_publisher/build/lib/depth_publisher/__init__.py -> /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/lib/python3.10/site-packages/depth_publisher
+[0.760s] byte-compiling /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/lib/python3.10/site-packages/depth_publisher/nodes/depth_publisher_node.py to depth_publisher_node.cpython-310.pyc
+[0.760s] byte-compiling /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/lib/python3.10/site-packages/depth_publisher/nodes/__init__.py to __init__.cpython-310.pyc
+[0.760s] byte-compiling /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/lib/python3.10/site-packages/depth_publisher/__init__.py to __init__.cpython-310.pyc
+[0.761s] running install_data
+[0.761s] creating /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/share/ament_index
+[0.761s] creating /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/share/ament_index/resource_index
+[0.761s] creating /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/share/ament_index/resource_index/packages
+[0.761s] copying resource/depth_publisher -> /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/share/ament_index/resource_index/packages
+[0.761s] copying package.xml -> /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/share/depth_publisher
+[0.761s] running install_egg_info
+[0.762s] Copying ../../build/depth_publisher/depth_publisher.egg-info to /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/lib/python3.10/site-packages/depth_publisher-0.1.0-py3.10.egg-info
+[0.763s] running install_scripts
+[0.777s] Installing depth_publisher_node script to /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/lib/depth_publisher
+[0.778s] writing list of installed files to '/home/csy/My_baby_blue/Road_fixer/build/depth_publisher/install.log'
+[0.805s] Invoked command in '/home/csy/My_baby_blue/Road_fixer/src/depth_publisher' returned '0': CONDA_PROMPT_MODIFIER=(Road_fixer) PYTHONPATH=/home/csy/My_baby_blue/Road_fixer/build/depth_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/csy/My_baby_blue/Road_fixer/install/depth_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/depth_publisher build --build-base /home/csy/My_baby_blue/Road_fixer/build/depth_publisher/build install --record /home/csy/My_baby_blue/Road_fixer/build/depth_publisher/install.log --single-version-externally-managed install_data

@@ -1,0 +1,8 @@
+cv_bridge
+geometry_msgs
+numpy
+opencv-python
+rclpy
+sensor_msgs
+setuptools
+ultralytics

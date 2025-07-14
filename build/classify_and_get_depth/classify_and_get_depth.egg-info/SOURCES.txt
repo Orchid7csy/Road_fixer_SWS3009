@@ -18,7 +18,7 @@ classify_and_get_depth/test_preprocess_block_straight.py
 classify_and_get_depth/validate.py
 classify_and_get_depth/nodes/__init__.py
 classify_and_get_depth/nodes/crack_detector_node.py
-classify_and_get_depth/nodes/depth_publisher_node.py
+classify_and_get_depth/nodes/motion_planning_node.py
 config/crack-seg.yaml
 resource/classify_and_get_depth
 test/test_copyright.py

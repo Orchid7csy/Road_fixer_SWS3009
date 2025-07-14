@@ -1,0 +1,40 @@
+running egg_info
+creating ../../build/depth_publisher/depth_publisher.egg-info
+writing ../../build/depth_publisher/depth_publisher.egg-info/PKG-INFO
+writing dependency_links to ../../build/depth_publisher/depth_publisher.egg-info/dependency_links.txt
+writing entry points to ../../build/depth_publisher/depth_publisher.egg-info/entry_points.txt
+writing requirements to ../../build/depth_publisher/depth_publisher.egg-info/requires.txt
+writing top-level names to ../../build/depth_publisher/depth_publisher.egg-info/top_level.txt
+writing manifest file '../../build/depth_publisher/depth_publisher.egg-info/SOURCES.txt'
+reading manifest file '../../build/depth_publisher/depth_publisher.egg-info/SOURCES.txt'
+writing manifest file '../../build/depth_publisher/depth_publisher.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/csy/My_baby_blue/Road_fixer/build/depth_publisher/build
+creating /home/csy/My_baby_blue/Road_fixer/build/depth_publisher/build/lib
+creating /home/csy/My_baby_blue/Road_fixer/build/depth_publisher/build/lib/depth_publisher
+copying depth_publisher/__init__.py -> /home/csy/My_baby_blue/Road_fixer/build/depth_publisher/build/lib/depth_publisher
+creating /home/csy/My_baby_blue/Road_fixer/build/depth_publisher/build/lib/depth_publisher/nodes
+copying depth_publisher/nodes/depth_publisher_node.py -> /home/csy/My_baby_blue/Road_fixer/build/depth_publisher/build/lib/depth_publisher/nodes
+copying depth_publisher/nodes/__init__.py -> /home/csy/My_baby_blue/Road_fixer/build/depth_publisher/build/lib/depth_publisher/nodes
+running install
+running install_lib
+creating /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/lib/python3.10/site-packages/depth_publisher
+creating /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/lib/python3.10/site-packages/depth_publisher/nodes
+copying /home/csy/My_baby_blue/Road_fixer/build/depth_publisher/build/lib/depth_publisher/nodes/depth_publisher_node.py -> /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/lib/python3.10/site-packages/depth_publisher/nodes
+copying /home/csy/My_baby_blue/Road_fixer/build/depth_publisher/build/lib/depth_publisher/nodes/__init__.py -> /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/lib/python3.10/site-packages/depth_publisher/nodes
+copying /home/csy/My_baby_blue/Road_fixer/build/depth_publisher/build/lib/depth_publisher/__init__.py -> /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/lib/python3.10/site-packages/depth_publisher
+byte-compiling /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/lib/python3.10/site-packages/depth_publisher/nodes/depth_publisher_node.py to depth_publisher_node.cpython-310.pyc
+byte-compiling /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/lib/python3.10/site-packages/depth_publisher/nodes/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/lib/python3.10/site-packages/depth_publisher/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/share/ament_index
+creating /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/share/ament_index/resource_index
+creating /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/share/ament_index/resource_index/packages
+copying resource/depth_publisher -> /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/share/ament_index/resource_index/packages
+copying package.xml -> /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/share/depth_publisher
+running install_egg_info
+Copying ../../build/depth_publisher/depth_publisher.egg-info to /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/lib/python3.10/site-packages/depth_publisher-0.1.0-py3.10.egg-info
+running install_scripts
+Installing depth_publisher_node script to /home/csy/My_baby_blue/Road_fixer/install/depth_publisher/lib/depth_publisher
+writing list of installed files to '/home/csy/My_baby_blue/Road_fixer/build/depth_publisher/install.log'

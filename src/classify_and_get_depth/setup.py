@@ -37,7 +37,6 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'depth_publisher_node = classify_and_get_depth.nodes.depth_publisher_node:main',
             'crack_detector_node = classify_and_get_depth.nodes.crack_detector_node:main',
             'motion_planning_node = classify_and_get_depth.nodes.motion_planning_node:main'
         ],

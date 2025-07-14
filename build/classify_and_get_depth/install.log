@@ -6,7 +6,7 @@
 /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth/motion_planning.py
 /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth/__init__.py
 /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth/filter_staright_lines.py
-/home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth/nodes/depth_publisher_node.py
+/home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth/nodes/motion_planning_node.py
 /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth/nodes/crack_detector_node.py
 /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth/nodes/__init__.py
 /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth/__pycache__/ft_yolov11.cpython-310.pyc
@@ -17,7 +17,7 @@
 /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth/__pycache__/motion_planning.cpython-310.pyc
 /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth/__pycache__/__init__.cpython-310.pyc
 /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth/__pycache__/filter_staright_lines.cpython-310.pyc
-/home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth/nodes/__pycache__/depth_publisher_node.cpython-310.pyc
+/home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth/nodes/__pycache__/motion_planning_node.cpython-310.pyc
 /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth/nodes/__pycache__/crack_detector_node.cpython-310.pyc
 /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth/nodes/__pycache__/__init__.cpython-310.pyc
 /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/share/ament_index/resource_index/packages/classify_and_get_depth
@@ -32,4 +32,4 @@
 /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth-0.1.0-py3.10.egg-info/PKG-INFO
 /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/python3.10/site-packages/classify_and_get_depth-0.1.0-py3.10.egg-info/SOURCES.txt
 /home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/classify_and_get_depth/crack_detector_node
-/home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/classify_and_get_depth/depth_publisher_node
+/home/csy/My_baby_blue/Road_fixer/install/classify_and_get_depth/lib/classify_and_get_depth/motion_planning_node
